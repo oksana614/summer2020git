@@ -1,4 +1,15 @@
 Hello World
+<<<<<<< HEAD
 Line2
 Line3
 Line4
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Line1
+=======
+>>>>>>> 69024bdf58a261e121e1276073ecfeed11fddc16
+Line2
+>>>>>>> dc6f99530c7d42b5ffd5753f6b75d03e45f1ca2d
+>>>>>>> 8597eda8ee5ffc92cccd9356a33ddca5eadd7c32
