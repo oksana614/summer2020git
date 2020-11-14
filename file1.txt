@@ -1,3 +1,6 @@
 Hello World
+<<<<<<< HEAD
 Line1
+=======
+>>>>>>> 69024bdf58a261e121e1276073ecfeed11fddc16
 Line2
